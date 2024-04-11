@@ -1,6 +1,6 @@
 # Node Hello World
 
-Simple node.js app that servers "Techessay"
+Simple node.js app that servers "Jeetu"
 
 Great for testing simple deployments on Cloud
 
